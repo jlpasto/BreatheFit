@@ -97,6 +97,7 @@ Path aliases:
 ## Development Commands
 
 ```bash
+npm install        # Install node modules
 npm run dev        # Start dev server (client + server)
 npm run build      # Production build
 npm run start      # Start production server

@@ -1,12 +1,12 @@
 # BreatheFit - A Sport-themed Breathing Coach App
 
-[Visit Website](https://breathefit.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp;      [Github Repo](https://github.com/jlpasto/BreatheFit)
+[Visit Website](https://breathefit.netlify.app/)
 
 Transform your daily wellness routine with guided breathing exercises designed to reduce stress, improve focus, and enhance your overall well-being.
 
 BreatheFit is a production-ready full-stack React application designed for building modern web apps with an integrated Express server. It features a React Router 6 SPA, TypeScript, Vitest for testing, Zod for validation, and a modern UI stack.
 
-![Preview Screenshot](/images/website/breathefit-preview.png)
+![Preview Screenshot](breathefit-preview.png)
 
 ---
 

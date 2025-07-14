@@ -1,6 +1,8 @@
 # BreatheFit - A Sport Breathing Coach
 
-BreatheFit is a production-ready full-stack React application template designed for building modern web apps with an integrated Express server. It features a React Router 6 SPA, TypeScript, Vitest for testing, Zod for validation, and a modern UI stack.
+Transform your daily wellness routine with guided breathing exercises designed to reduce stress, improve focus, and enhance your overall well-being.
+
+BreatheFit is a production-ready full-stack React application designed for building modern web apps with an integrated Express server. It features a React Router 6 SPA, TypeScript, Vitest for testing, Zod for validation, and a modern UI stack.
 
 ## Features
 
